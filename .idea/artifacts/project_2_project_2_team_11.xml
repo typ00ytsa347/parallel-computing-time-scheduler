@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="project-2-project-2-team-11">
+    <output-path>$PROJECT_DIR$/out/artifacts/project_2_project_2_team_11</output-path>
+    <root id="root">
+      <element id="archive" name="project_2_project_2_team_11.jar">
+        <element id="module-output" name="project-2-project-2-team-11" />
+      </element>
+    </root>
+  </artifact>
+</component>
